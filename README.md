@@ -1,2 +1,2 @@
-# ejemplo-git-pull
+# git-pull
 練習のリポジトリからギットプルします。
